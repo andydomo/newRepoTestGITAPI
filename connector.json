@@ -8,7 +8,7 @@
   "name": "draxupload",
   "connectorType": "datagrid",
   "type": "none",
-  "authCodeText": "",
+  "authCodeText": "hello",
   "userName": "",
   "password": "",
   "apiKey": "",
@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "2da85318-44c2-4cbc-950e-4cac3eb77f5c",
-  "authorName": "test123222",
+  "authorName": "test12322234",
   "accesstokenMethod": null,
   "tokenAddlParams": "",
   "publishPrivate": true,
@@ -136,18 +136,21 @@
                 "label": "triangle",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:356"
+                "$$hashKey": "object:356",
+                "selected": false
               },
               {
                 "expanded": false,
                 "label": "square",
                 "leaf": true,
                 "nodes": [],
-                "$$hashKey": "object:357"
+                "$$hashKey": "object:357",
+                "selected": false
               }
             ],
             "leaf": false,
-            "$$hashKey": "object:348"
+            "$$hashKey": "object:348",
+            "selected": false
           }
         ]
       }
@@ -965,8 +968,8 @@
   "visible": true,
   "validImages": [
     "logoWithBackground",
-    "iconWithBackground",
     "iconWithoutBackground",
+    "iconWithBackground",
     "logoWithoutBackground"
   ]
 }
